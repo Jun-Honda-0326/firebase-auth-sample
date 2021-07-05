@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-auth-sample-11261": {
+      "hosting": {
+        "firebase-auth-sample": [
+          "angular-auth-sample-11261"
+        ]
+      }
+    }
+  }
+}
