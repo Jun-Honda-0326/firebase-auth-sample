@@ -7,13 +7,19 @@ import { AngularFireDatabaseModule } from '@angular/fire/database';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SignUpComponent } from './sign-up/sign-up.component';
+import { RouterModule } from '@angular/router';
+import { TopPageComponent } from './top-page/top-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SignUpComponent,
+    TopPageComponent
   ],
   imports: [
     BrowserModule,
+		RouterModule,
     AppRoutingModule,
 		AngularFireModule.initializeApp(environment.firebase),
 		AngularFireAuthModule,
