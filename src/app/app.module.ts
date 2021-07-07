@@ -12,12 +12,14 @@ import { SignUpComponent } from './sign-up/sign-up.component';
 import { RouterModule } from '@angular/router';
 import { TopPageComponent } from './top-page/top-page.component';
 import { AuthService } from './auth.service';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignUpComponent,
-    TopPageComponent
+    TopPageComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
