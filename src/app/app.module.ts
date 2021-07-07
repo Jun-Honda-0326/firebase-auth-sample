@@ -10,6 +10,7 @@ import { AppComponent } from './app.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { RouterModule } from '@angular/router';
 import { TopPageComponent } from './top-page/top-page.component';
+import { AuthService } from './auth.service';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,9 @@ import { TopPageComponent } from './top-page/top-page.component';
 		AngularFireAuthModule,
 		AngularFireDatabaseModule
   ],
-  providers: [],
+  providers: [
+		AuthService
+	],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
