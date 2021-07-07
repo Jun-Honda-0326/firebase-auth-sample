@@ -1,7 +1,7 @@
 <h1>ログイン画面</h1>
 
 <div class="container" >
-  <form class="login-form">
+  <form #form="ngForm" (ngSubmit)="login(form)" class="login-form">
   	<input ngModel type="email" name="email" class="email-form"  placeholder="メールアドレスを入力">
   	<input ngModel type="password" name="password" class="pass-form" placeholder="パスワードを入力">
   	<button type="submit" class="submit" >ログイン</button>
