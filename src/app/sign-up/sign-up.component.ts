@@ -11,17 +11,17 @@ import { AuthService } from '../auth.service';
 export class SignUpComponent implements OnInit {
 
   constructor(
-		private router: Router,
-		private authService: AuthService
-	) { }
+    private router: Router,
+    private authService: AuthService
+  ) { }
 
   ngOnInit(): void {
   }
 
-	signup(form: NgForm): void {
-		const { email, password } = form.value
-		this.authService.create(email, password)
-			.then(() => this.router.navigateByUrl('/'))
-	}
+  signup(form: NgForm): void {
+    const { email, password } = form.value
+    this.authService.create(email, password)
+      .then(() => this.router.navigateByUrl('/'))
+  }
 
 }
