@@ -23,16 +23,16 @@ import { LoginComponent } from './login/login.component';
   ],
   imports: [
     BrowserModule,
-		RouterModule,
-		FormsModule,
+    RouterModule,
+    FormsModule,
     AppRoutingModule,
-		AngularFireModule.initializeApp(environment.firebase),
-		AngularFireAuthModule,
-		AngularFireDatabaseModule
+    AngularFireModule.initializeApp(environment.firebase),
+    AngularFireAuthModule,
+    AngularFireDatabaseModule
   ],
   providers: [
-		AuthService
-	],
+    AuthService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
