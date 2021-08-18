@@ -10,7 +10,7 @@ import { AuthService } from '../auth.service';
 })
 export class TopPageComponent implements OnInit {
 
-  isLogin: boolean = false;
+  isLoggedIn : boolean = false;
 
   constructor(
     private afAuth: AngularFireAuth,
@@ -20,7 +20,7 @@ export class TopPageComponent implements OnInit {
 
   ngOnInit(): void {
     this.afAuth.onAuthStateChanged((user) => {
-      this.isLogin = !!user
+      this.isLoggedIn = !!user
     })
   }
 

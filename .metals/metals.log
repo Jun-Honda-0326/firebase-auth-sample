@@ -12,3 +12,70 @@
 [0m2021.07.07 09:40:14 INFO  time: initialize in 4.18s[0m
 [0m2021.07.07 09:40:15 WARN  Build server is not auto-connectable.[0m
 [0m2021.07.07 09:40:15 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.08 22:44:58 INFO  shutting down Metals[0m
+[0m2021.07.09 07:06:30 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.09 07:06:38 INFO  time: initialize in 8.57s[0m
+[0m2021.07.09 07:06:39 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.09 07:06:39 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.09 23:05:15 INFO  shutting down Metals[0m
+[0m2021.07.10 08:23:21 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.10 08:23:26 INFO  time: initialize in 4.34s[0m
+[0m2021.07.10 08:23:26 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.10 08:23:26 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.10 16:23:00 INFO  shutting down Metals[0m
+[0m2021.07.10 23:12:37 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.10 23:12:45 INFO  time: initialize in 8.74s[0m
+[0m2021.07.10 23:12:46 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.10 23:12:46 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.11 23:00:09 INFO  shutting down Metals[0m
+[0m2021.07.12 08:50:02 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.12 08:50:05 INFO  time: initialize in 2.96s[0m
+[0m2021.07.12 08:50:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.12 08:50:05 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.12 23:28:56 INFO  shutting down Metals[0m
+[0m2021.07.13 21:18:57 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.13 21:19:03 INFO  time: initialize in 5.98s[0m
+[0m2021.07.13 21:19:03 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.13 21:19:03 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.13 22:39:04 INFO  shutting down Metals[0m
+[0m2021.07.15 07:36:39 INFO  Started: Metals version 0.10.4 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.15 07:36:43 INFO  time: initialize in 4.34s[0m
+[0m2021.07.15 07:36:43 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.15 07:36:43 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.15 23:26:49 INFO  shutting down Metals[0m
+[0m2021.07.16 07:53:00 INFO  Started: Metals version 0.10.5 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.16 07:53:02 INFO  time: initialize in 2.26s[0m
+[0m2021.07.16 07:53:04 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.16 07:53:04 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.17 09:52:56 INFO  shutting down Metals[0m
+[0m2021.07.17 09:55:47 INFO  Started: Metals version 0.10.5 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.17 09:55:48 INFO  time: initialize in 1.31s[0m
+[0m2021.07.17 09:55:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.17 09:55:50 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+7 17, 2021 9:55:57 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+[0m2021.07.20 00:07:24 INFO  shutting down Metals[0m
+[0m2021.07.20 20:43:03 INFO  Started: Metals version 0.10.5 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.20 20:43:05 INFO  time: initialize in 1.73s[0m
+[0m2021.07.20 20:43:07 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.20 20:43:07 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.20 23:42:18 INFO  shutting down Metals[0m
+[0m2021.07.21 08:36:58 INFO  Started: Metals version 0.10.5 in workspace '/Users/jun/projects/angular/firebase-auth-sample' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.21 08:37:00 INFO  time: initialize in 1.55s[0m
+[0m2021.07.21 08:37:02 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.21 08:37:02 WARN  no build tool detected in workspace '/Users/jun/projects/angular/firebase-auth-sample'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+7 21, 2021 8:43:39 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:40 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:42 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:46 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:46 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:48 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+7 21, 2021 8:43:50 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+[0m2021.07.21 08:46:11 INFO  shutting down Metals[0m
